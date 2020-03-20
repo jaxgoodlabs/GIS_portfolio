@@ -10,4 +10,10 @@ I also have many interests and pet projects outside of conservation and environm
 In this course, I hope to shore up the foundational knowledge and skills I acquired in my introductory GIS course and begin digging deeper into the advanced capabilities of ArcGIS Pro, especially those that are most highly valued among my prospective employers in the fields of civic tech and environmental policy and sustainability. I also look forward to gaining exposure to additional tools and software used by GIS professionals and in integrating my knowledge of these tools with the broader base of knowledge I've acquired during my nearly two years in Heinz College, especially database management, programming, and [data visualization](https://jaxgoodlabs.github.io/campbell-portfolio/).
 
 ## Portfolio
-(Examples of my work forthcoming.)
+Examples of my work are forthcoming.
+
+In the meantime, here's a placeholder iframe embedded using Google Sheets.
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ2Onf8XIOj3ZYJSLff_D9Xh947V9mCuw9lcPUKHoTq7nA7oal4jFPZ0GGU8szrc791OzZUZW7HbI7T/pubchart?oid=2081714158&amp;format=interactive"></iframe>
+
+
