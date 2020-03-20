@@ -1,5 +1,5 @@
 # GIS_portfolio
-Portfolio for 90753: Advanced GIS
+Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 ## About me 
 My name is Patrick Campbell and I’m a 2nd year student in the Public Policy and Management Master's Program at Carnegie Mellon University. Before coming to CMU, I worked in a variety of positions in the areas of environmental science and conservation. Some of the more notable examples of the work I've done include 3 years managing a volunteer program at a biological research station in the Peruvian Amazon and a year and a half hunting and removing invasive Burmese pythons from the areas surrounding Everglades National Park in South Florida.
