@@ -3,9 +3,7 @@ Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be view
 
 ## About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
-My name is Patrick Campbell and I’m a 2nd year student in the Public Policy and Management Master's Program at Carnegie Mellon University. Before coming to CMU, I worked in a variety of positions in the areas of environmental science and conservation. Some of the more notable examples of the work I've done include 3 years managing a volunteer program at a biological research station in the Peruvian Amazon and a year and a half hunting and removing invasive Burmese pythons from the areas surrounding Everglades National Park in South Florida.
-
-
+My name is Patrick Campbell and I’m a 2nd year student in the Public Policy and Management Master's Program at Carnegie Mellon University. Before coming to CMU, I worked in a variety of positions in the areas of environmental science and conservation. Some of the more notable examples of the work I've done include 3 years managing a volunteer program at a biological research station in the Peruvian Amazon and a year and a half hunting and removing invasive Burmese pythons from the areas surrounding Everglades National Park in South Florida. <br />
 I also have many interests and pet projects outside of conservation and environmental science. As a student, I tried on majors ranging from digital media and biology (B.S.) to philosophy (M.A.) and, currently, public policy (M.S.), while dabbling in cognitive science, ecology, and social entrepreneurship. Similarly, as a professional, I've worked variously as an environmental consultant, ecotourism guide, HVAC installation technician, volunteer program manager, special education teacher, and python hunter. My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.
 
 ## What I hope to learn 
@@ -39,4 +37,3 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 <p align="center">
 <img width="800" height="450" src="https://user-images.githubusercontent.com/32546509/77235533-cc92fd00-6b8c-11ea-89fa-86e10101dde3.JPG">
 </p>
-
