@@ -26,13 +26,13 @@ I ultimately settled on the following image of People's Square in Shanghai:
 <img width="600" height="400" src="https://user-images.githubusercontent.com/32546509/77230702-6302f680-6b6c-11ea-93ce-bf99898ecf31.jpg">
 </p>
 <p align="center">
-Photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/) (standard license)
+*Photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/) (standard license)*
 </p>
 
 <p align="center">
 <figure class="image">
-  <img src="{{ https://user-images.githubusercontent.com/32546509/77230702-6302f680-6b6c-11ea-93ce-bf99898ecf31.jpg }}" alt="{{ include.description }}">
-  <figcaption>{{ Photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/) (standard license) }}</figcaption>
+  <img src="{{https://user-images.githubusercontent.com/32546509/77230702-6302f680-6b6c-11ea-93ce-bf99898ecf31.jpg}}" alt="{{include.description}}">
+  <figcaption>{{Photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/) (standard license)}}</figcaption>
   </figure>
   </p>
 
