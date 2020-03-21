@@ -24,11 +24,15 @@ In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapst
 <img width="600" height="400" src="https://user-images.githubusercontent.com/32546509/77230702-6302f680-6b6c-11ea-93ce-bf99898ecf31.jpg">
 </p>
 
-I then used Canva's color palette generator](https://www.canva.com/colors/color-palette-generator/) to create a custom color palette based on the image I had chosen. 
+I then used [Canva's color palette generator](https://www.canva.com/colors/color-palette-generator/) to create a custom color palette based on the image I had chosen. 
 
 <p align="center">
 <img width="500" height="500" src="https://user-images.githubusercontent.com/32546509/77230748-c42aca00-6b6c-11ea-9a7b-a1496b92bafa.JPG">
 </p>
+
+Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as my base template and then proceeded to change the colors of various features using the hex codes from my custom color palette. The final product is displayed below.
+
+
 
 
 
