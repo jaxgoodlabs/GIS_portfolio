@@ -20,7 +20,7 @@ This is a simple iframe created on Google Sheets and embedded here. This is only
 ### Map Style: People's Square
 In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named People's Square. To create the style, I first searched Google for an image (filtered by "marked for resuse" license) whose color scheme matched that of the map style I wanted to create. 
 
-I ultimately settled on the following image of People's Square in Shanghai (Photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/), standard license):
+I ultimately settled on the following image of People's Square in Shanghai (photo by [f11photo](https://stock.adobe.com/contributor/201898682/f11photo?load_type=author&prev_url=detail) via [Adobe Stock](https://stock.adobe.com/), standard license):
 
 <p align="center">
 <img width="600" height="400" src="https://user-images.githubusercontent.com/32546509/77230702-6302f680-6b6c-11ea-93ce-bf99898ecf31.jpg">
