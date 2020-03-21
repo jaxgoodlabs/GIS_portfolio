@@ -33,5 +33,5 @@ I then used [Canva's color palette generator](https://www.canva.com/colors/color
 Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as my base template and then proceeded to change the colors of various features using the hex codes from my custom color palette. A screenshot of the final product is displayed below. To access an interactive version of the map style, just click [here](https://jaxgoodlabs.github.io/GIS_portfolio/central-park.html).
 
 <p align="center">
-<img width="750" height="450" src="https://user-images.githubusercontent.com/32546509/77235158-dd8e3f00-6b89-11ea-9f18-fef4fd9328a1.JPG">
+<img width="800" height="450" src="https://user-images.githubusercontent.com/32546509/77235158-dd8e3f00-6b89-11ea-9f18-fef4fd9328a1.JPG">
 </p>
