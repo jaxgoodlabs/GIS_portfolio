@@ -27,7 +27,7 @@ In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapst
 I then used [Canva's color palette generator](https://www.canva.com/colors/color-palette-generator/) to create a custom color palette based on the image I had chosen. 
 
 <p align="center">
-<img width="500" height="150" src="https://user-images.githubusercontent.com/32546509/77231010-92b2fe00-6b6e-11ea-9bac-d2ba32425c89.jpg">
+<img width="750" height="350" src="https://user-images.githubusercontent.com/32546509/77231010-92b2fe00-6b6e-11ea-9bac-d2ba32425c89.jpg">
 </p>
 
 Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as my base template and then proceeded to change the colors of various features using the hex codes from my custom color palette. The final product is displayed below. [Link](https://jaxgoodlabs.github.io/GIS_portfolio/centralpark)
