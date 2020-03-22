@@ -40,7 +40,18 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 </p>
 
 ### Map Style: Night Glacier 2
-[Link](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
+The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night.
+
+
+<p align="center">
+<img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
+</p>
+
+[Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
 
 ### Map Style: Remote Sensing
-[Link](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html)
+<p align="center">
+<img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
+</p>
+
+[Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html)
