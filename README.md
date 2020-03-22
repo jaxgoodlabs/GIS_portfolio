@@ -56,8 +56,9 @@ The resulting map style is presented below.
 ### Map Style: Remote Sensing
 The Remote Sensing map style attempts to mimic the typical color scheme of an image generated using remote sensing technology. The image that served as my inspiration for this style is presented below along with the color palette generated from it.
 
-<img align="left" src="https://user-images.githubusercontent.com/32546509/77255949-6ddb8b00-6c41-11ea-9f67-129ca576ae99.png">
-<img align="right" src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg">
+!src="https://user-images.githubusercontent.com/32546509/77255949-6ddb8b00-6c41-11ea-9f67-129ca576ae99.png !src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg"
+
+<img align="left" src="https://user-images.githubusercontent.com/32546509/77255949-6ddb8b00-6c41-11ea-9f67-129ca576ae99.png"><img align="right" src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg">
 
 The resulting map style is presented below.
 
