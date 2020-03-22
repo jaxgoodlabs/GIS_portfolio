@@ -43,8 +43,8 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night, which I again used Canva to convert into a custom color palette.
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/32546509/77255668-8e0a4a80-6c3f-11ea-9aef-8b0c42925e56.jpg" width="100" />
-  <img src="https://user-images.githubusercontent.com/32546509/77256745-7a161700-6c46-11ea-8dde-6bc4f4f9cfd4.jpg" width="100" />
+  <img src="https://user-images.githubusercontent.com/32546509/77255668-8e0a4a80-6c3f-11ea-9aef-8b0c42925e56.jpg" width="250" />
+  <img src="https://user-images.githubusercontent.com/32546509/77256745-7a161700-6c46-11ea-8dde-6bc4f4f9cfd4.jpg" width="400" />
 </p>
 
 The resulting map style is presented below.
