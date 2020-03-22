@@ -42,15 +42,14 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 ### Map Style: Night Glacier 2
 The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night, which I again used Canva to convert into a custom color palette.
 
-<p float="center">
-  <img src="https://user-images.githubusercontent.com/32546509/77255668-8e0a4a80-6c3f-11ea-9aef-8b0c42925e56.jpg" width="400" />
-  <img src="https://user-images.githubusercontent.com/32546509/77256745-7a161700-6c46-11ea-8dde-6bc4f4f9cfd4.jpg" width="450" />
+<p align="center">
+<img width="800" height="500" src="https://user-images.githubusercontent.com/32546509/77257394-5654d000-6c4a-11ea-92b0-7d8fbb566671.JPG">
 </p>
 
 The resulting map style is presented below.
 
 <p align="center">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
+<img width="800" height="575" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
 </p>
 
 [Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
@@ -58,15 +57,14 @@ The resulting map style is presented below.
 ### Map Style: Remote Sensing
 The Remote Sensing map style attempts to mimic the typical color scheme of an image generated using remote sensing technology. The image that served as my inspiration for this style is presented below along with the color palette generated from it.
 
-<p float="center">
-  <img src="https://user-images.githubusercontent.com/32546509/77255949-6ddb8b00-6c41-11ea-9f67-129ca576ae99.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg" width="450" />
+<p align="center">
+<img width="800" height="500" src="https://user-images.githubusercontent.com/32546509/77257412-7dab9d00-6c4a-11ea-9836-2edfaa506d90.JPG">
 </p>
 
 The resulting map style is presented below.
 
 <p align="center">
-<img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
+<img width="800" height="575" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
 </p>
 
 [Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html)
