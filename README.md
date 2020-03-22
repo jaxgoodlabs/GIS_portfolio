@@ -40,8 +40,13 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 </p>
 
 ### Map Style: Night Glacier 2
-The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night.
+The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night, which I again used Canva to convert into a custom color palette.
 
+<p align="center">
+<img width="500" height="575" src="https://user-images.githubusercontent.com/32546509/77255704-d3c71300-6c3f-11ea-95e0-b465e017726c.JPG">
+</p>
+
+The resulting map style is presented below.
 
 <p align="center">
 <img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
@@ -50,6 +55,14 @@ The Night Glacier 2 style was inspired by this image of ice climbers exploring a
 [Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
 
 ### Map Style: Remote Sensing
+The Remote Sensing map style attempts to mimic the typical color scheme of an image generated using remote sensing technology. The image that served as my inspiration for this style is presented below along with the color palette generated from it.
+
+<p align="center">
+<img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77255704-d3c71300-6c3f-11ea-95e0-b465e017726c.JPG">
+</p>
+
+The resulting map style is presented below.
+
 <p align="center">
 <img width="800" height="600" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
 </p>
