@@ -38,3 +38,9 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 <p align="center">
 <img width="800" height="450" src="https://user-images.githubusercontent.com/32546509/77235533-cc92fd00-6b8c-11ea-89fa-86e10101dde3.JPG">
 </p>
+
+### Map Style: Night Glacier 2
+[Link](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
+
+### Map Style: Remote Sensing
+[Link](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html)
