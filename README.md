@@ -44,7 +44,7 @@ The Night Glacier 2 style was inspired by this image of ice climbers exploring a
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/32546509/77255668-8e0a4a80-6c3f-11ea-9aef-8b0c42925e56.jpg" width="400" />
-  <img src="https://user-images.githubusercontent.com/32546509/77256745-7a161700-6c46-11ea-8dde-6bc4f4f9cfd4.jpg" width="350" />
+  <img src="https://user-images.githubusercontent.com/32546509/77256745-7a161700-6c46-11ea-8dde-6bc4f4f9cfd4.jpg" width="450" />
 </p>
 
 The resulting map style is presented below.
@@ -60,7 +60,7 @@ The Remote Sensing map style attempts to mimic the typical color scheme of an im
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/32546509/77255949-6ddb8b00-6c41-11ea-9f67-129ca576ae99.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg" width="350" />
+  <img src="https://user-images.githubusercontent.com/32546509/77256721-62d72980-6c46-11ea-8737-34b25d0e63cd.jpg" width="450" />
 </p>
 
 The resulting map style is presented below.
