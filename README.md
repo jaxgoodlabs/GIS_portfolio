@@ -43,13 +43,13 @@ Back in the Google Maps Styling Wizard, I selected the "Dark" theme to serve as 
 The Night Glacier 2 style was inspired by this image of ice climbers exploring a glacier at night, which I again used Canva to convert into a custom color palette.
 
 <p align="center">
-<img width="800" height="500" src="https://user-images.githubusercontent.com/32546509/77257394-5654d000-6c4a-11ea-92b0-7d8fbb566671.JPG">
+<img width="800" height="350" src="https://user-images.githubusercontent.com/32546509/77257394-5654d000-6c4a-11ea-92b0-7d8fbb566671.JPG">
 </p>
 
 The resulting map style is presented below.
 
 <p align="center">
-<img width="800" height="575" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
+<img width="800" height="550" src="https://user-images.githubusercontent.com/32546509/77254553-171d8380-6c38-11ea-8b6e-5a2ab281bcba.JPG">
 </p>
 
 [Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/night-glacier-2.html)
@@ -58,13 +58,13 @@ The resulting map style is presented below.
 The Remote Sensing map style attempts to mimic the typical color scheme of an image generated using remote sensing technology. The image that served as my inspiration for this style is presented below along with the color palette generated from it.
 
 <p align="center">
-<img width="800" height="500" src="https://user-images.githubusercontent.com/32546509/77257412-7dab9d00-6c4a-11ea-9836-2edfaa506d90.JPG">
+<img width="800" height="350" src="https://user-images.githubusercontent.com/32546509/77257412-7dab9d00-6c4a-11ea-9836-2edfaa506d90.JPG">
 </p>
 
 The resulting map style is presented below.
 
 <p align="center">
-<img width="800" height="575" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
+<img width="800" height="550" src="https://user-images.githubusercontent.com/32546509/77254556-1a187400-6c38-11ea-812d-5e909c2047fd.JPG">
 </p>
 
 [Link to interactive version](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html)
