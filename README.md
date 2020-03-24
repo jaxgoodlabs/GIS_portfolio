@@ -78,13 +78,13 @@ A lesson I took away from last week's assignment was that the role of the basema
 To execute my vision, I selected the Modern Antique template, pictured below. I naturally think of the development of the commons-based infrastructure as a sort of frontiersman/early-explorer sort of enterprise, so I wanted to use a basemap that had an older, antique feel to it. This template also looked like it would work well for the subtle, low-contrast color scheme I had in mind.
 
 <p align="center">
-<img width=100% height=100% src="https://user-images.githubusercontent.com/32546509/77484415-e3418a00-6e00-11ea-8ea0-5abba8d7dae7.JPG">
+<img width=50% height=50% src="https://user-images.githubusercontent.com/32546509/77484415-e3418a00-6e00-11ea-8ea0-5abba8d7dae7.JPG">
 </p>
 
 A screenshot of my final map style is copied below. (Click [here](https://arcg.is/1qPCSb) to view the fully interactive version.)
 
 <p align="center">
-<img width="800" height="525" src="https://user-images.githubusercontent.com/32546509/77484477-0409df80-6e01-11ea-865e-6f1b805e9d65.JPG">
+<img width=100% height=100% src="https://user-images.githubusercontent.com/32546509/77484477-0409df80-6e01-11ea-865e-6f1b805e9d65.JPG">
 </p>
 
 The big test for how effective my basemap is has to do with how well it supports the message I want to communicate with the layers I add later, specifically, buildings, roads, etc. This is where I'd want to focus my attention when QA-ing the final product. At first glance, I'm satisfied with how everything is rendering. I like the general subdued tone of the map and the old-timey feel it has. 
