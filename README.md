@@ -78,7 +78,7 @@ A lesson I took away from last week's assignment was that the role of the basema
 To execute my vision, I selected the Modern Antique template, pictured below. I naturally think of the development of the commons-based infrastructure as a sort of frontiersman/early-explorer sort of enterprise, so I wanted to use a basemap that had an older, antique feel to it. This template also looked like it would work well for the subtle, low-contrast color scheme I had in mind.
 
 <p align="center">
-<img width="528" height="353" src="https://user-images.githubusercontent.com/32546509/77484415-e3418a00-6e00-11ea-8ea0-5abba8d7dae7.JPG">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/77484415-e3418a00-6e00-11ea-8ea0-5abba8d7dae7.JPG">
 </p>
 
 A screenshot of my final map style is copied below. (Click [here](https://arcg.is/1qPCSb) to view the fully interactive version.)
