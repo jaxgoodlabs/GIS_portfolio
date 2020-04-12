@@ -95,13 +95,13 @@ One unanswered question, which may affect my comments above, has to do with whic
 The map below shows the elevation/bathymetry of coastal Mississippi counties with places, types of water, barrier islands, and rivers. A second map is also provided showing a time series of the path of Hurricane Katrina in relation to these features. The time slider has been stopped at the moment the hurricane’s path had just crossed the Mississippi coastline, around 4 pm on Aug. 28, 2005 (see light yellow line at west of map). As you can, the hurricane landed at the southwest corner of Hancock county with a pressure of less than 923 millibars.
 
 <p align="center">
-<img width="85%" height="85%" src="https://user-images.githubusercontent.com/32546509/79076821-f7273000-7cca-11ea-987c-48124a1af0a4.JPG">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79077075-8da82100-7ccc-11ea-9a09-8f89cded7056.JPG">
 </p>
 <br />
-*Fig. 2. Path of Hurricane Katrina relative to coastal Mississippi counties*
+*Fig. 2. Path of Hurricane Katrina relative to coastal Mississippi counties*<br />
 <br />
 <p align="center">
-<img width="85%" height="85%" src="https://user-images.githubusercontent.com/32546509/79076843-0f974a80-7ccb-11ea-89f4-e0de69b6c6dc.png">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076843-0f974a80-7ccb-11ea-89f4-e0de69b6c6dc.png">
 </p>
  
 **II.	Map of flooded Mississippi coast after Hurricane Katrina**
@@ -109,7 +109,7 @@ The map below shows the elevation/bathymetry of coastal Mississippi counties wit
 The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color. 
 
 <p align="center">
-<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/79076926-803e6700-7ccb-11ea-98f6-d3aaf2064c38.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076926-803e6700-7ccb-11ea-98f6-d3aaf2064c38.jpg">
 </p>
 
 A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina between the three coastal counties. A breakdown of these flooded areas by type of land cover is provided in the table below.
@@ -124,7 +124,7 @@ A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina 
 The map below shows the infrastructure and health facilities at risk from the Hurricane Katrina storm surge, which rose to 15 feet above normal sea level. Vast areas were affected with the largest impacts being concentrated around existing wetlands and river systems. The barrier islands to the south were completely inundated by the storm surge, although these areas fortunately appear to have been absent of major infrastructure or facilities.
 
 <p align="center">
-<img width="75%" height="75%" src="https://user-images.githubusercontent.com/32546509/79076928-85031b00-7ccb-11ea-9089-6fe22ab7056a.JPG">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076928-85031b00-7ccb-11ea-9089-6fe22ab7056a.JPG">
 </p>
 
 ### Visualizing 412 Food Rescue Data with Kepler
