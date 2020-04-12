@@ -100,7 +100,7 @@ The map below shows the elevation/bathymetry of coastal Mississippi counties wit
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076843-0f974a80-7ccb-11ea-89f4-e0de69b6c6dc.png">
 </p>
- 
+
 **II.	Map of flooded Mississippi coast after Hurricane Katrina**
 <br />
 The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color.
@@ -113,9 +113,9 @@ A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina 
 
 *Table 1. Breakdown of flooded areas by type of land cover*
 <p align="left">
-<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/79076909-5dac4e00-7ccb-11ea-856c-6f81bf7dd810.JPG">
+<img width="47%" height="47%" src="https://user-images.githubusercontent.com/32546509/79076909-5dac4e00-7ccb-11ea-856c-6f81bf7dd810.JPG">
 </p>
- 
+
 **III.	Map of infrastructure at risk from storm surge**
 <br />
 The map below shows the infrastructure and health facilities at risk from the Hurricane Katrina storm surge, which rose to 15 feet above normal sea level. Vast areas were affected with the largest impacts being concentrated around existing wetlands and river systems. The barrier islands to the south were completely inundated by the storm surge, although these areas fortunately appear to have been absent of major infrastructure or facilities.
@@ -125,7 +125,6 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 </p>
 
 ### Visualizing 412 Food Rescue Data with Kepler
-<br />
 Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
 
 <p align="center">
