@@ -96,7 +96,7 @@ Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like m
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/79072640-1ebccf00-7cb0-11ea-8d3c-50a9fee402d5.JPG">
 </p>
 
-Clich [here] to access the json file for this map.
+Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
 ### Investigating Patterns in My Google Location Data
 
