@@ -88,6 +88,21 @@ One change I'd like to make to improve my final map is to dull the color used fo
 
 One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level. 
 
+### Mapping Damage from Hurricane Katrina
+
+<p align="center">
+<img width="100%" height="100%" src="https://github.com/jaxgoodlabs/GIS_portfolio/files/4466822/Layout1_KatrinaTrack.pdf">
+</p>
+
+<p align="center">
+<img width="100%" height="100%" src="https://github.com/jaxgoodlabs/GIS_portfolio/files/4466823/Layout2_Flooded.Coastal.Areas.pdf)
+[Layout3_Infrastructure at Risk.pdf">
+</p>
+
+<p align="center">
+<img width="100%" height="100%" src="https://github.com/jaxgoodlabs/GIS_portfolio/files/4466824/Layout3_Infrastructure.at.Risk.pdf">
+</p>
+
 ### Visualizing 412 Food Rescue Data with Kepler
 
 Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
