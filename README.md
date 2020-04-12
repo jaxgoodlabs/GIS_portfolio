@@ -97,14 +97,14 @@ The map below shows the elevation/bathymetry of coastal Mississippi counties wit
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79077075-8da82100-7ccc-11ea-9a09-8f89cded7056.JPG">
 </p>
-<br />
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076843-0f974a80-7ccb-11ea-89f4-e0de69b6c6dc.png">
 </p>
  
-**II.	Map of flooded Mississippi coast after Hurricane Katrina** <br />
-The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color. <br />
-
+**II.	Map of flooded Mississippi coast after Hurricane Katrina**
+<br />
+The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color.
+<br />
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076926-803e6700-7ccb-11ea-98f6-d3aaf2064c38.jpg">
 </p>
@@ -116,7 +116,7 @@ A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina 
 <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/79076909-5dac4e00-7ccb-11ea-856c-6f81bf7dd810.JPG">
 </p>
  
-**III.	Map of infrastructure at risk from storm surge**<br />
+**III.	Map of infrastructure at risk from storm surge**
 <br />
 The map below shows the infrastructure and health facilities at risk from the Hurricane Katrina storm surge, which rose to 15 feet above normal sea level. Vast areas were affected with the largest impacts being concentrated around existing wetlands and river systems. The barrier islands to the south were completely inundated by the storm surge, although these areas fortunately appear to have been absent of major infrastructure or facilities.
 
