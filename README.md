@@ -98,24 +98,22 @@ The map below shows the elevation/bathymetry of coastal Mississippi counties wit
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79077075-8da82100-7ccc-11ea-9a09-8f89cded7056.JPG">
 </p>
 <br />
-
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076843-0f974a80-7ccb-11ea-89f4-e0de69b6c6dc.png">
 </p>
  
-**II.	Map of flooded Mississippi coast after Hurricane Katrina**<br />
-<br />
-The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color. 
+**II.	Map of flooded Mississippi coast after Hurricane Katrina** <br />
+The map below shows the extent of flooding in the wake of Hurricane Katrina across three coastal counties in Mississippi. Flooding is shown broken down by the type of land-cover it affected, with the unaffected areas displayed with no color. <br />
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076926-803e6700-7ccb-11ea-98f6-d3aaf2064c38.jpg">
 </p>
 
-A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina between the three coastal counties. A breakdown of these flooded areas by type of land cover is provided in the table below.
-<br />
-*Table 1. Breakdown of flooded areas by type of land cover*<br />
+A total of 1,293,503 acres of land was flooded in the wake of Hurricane Katrina between the three coastal counties. A breakdown of these flooded areas by type of land cover is provided in the table below.<br />
+
+*Table 1. Breakdown of flooded areas by type of land cover*
 <p align="left">
-<img width="40%" height="40%" src="https://user-images.githubusercontent.com/32546509/79076909-5dac4e00-7ccb-11ea-856c-6f81bf7dd810.JPG">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/79076909-5dac4e00-7ccb-11ea-856c-6f81bf7dd810.JPG">
 </p>
  
 **III.	Map of infrastructure at risk from storm surge**<br />
