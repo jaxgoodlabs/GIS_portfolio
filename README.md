@@ -89,16 +89,18 @@ One unanswered question, which may affect my comments above, has to do with whic
 **I. Map with Incident and Evacuation Plans**
 <br />
 *Mecklenburg, NC Hazardous Incident Report*
-At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
+<br />
+> At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
 
-Emergency responders are on the scene and have issued an immediate evacuation notice for all households located within the affected area (see the evacuation area on the map below). 
+> Emergency responders are on the scene and have issued an immediate evacuation notice for all households located within the affected area (see the evacuation area on the map below). 
 
-Initial reports estimate 15,626 households located within the affected area, representing a population of approximately 47,697 individuals. Temporary shelters have been set up in the half-mile area outside the perimeter of the evacuation zone (light red ring) and are marked on the map with mustard-yellow icons. All evacuees are instructed to seek shelter immediately at the nearest shelter location until the situation has been brought under control. While current weather conditions look favorable to preventing the expansion of the hazard area, the situation is being closely monitored for any changes. 
+> Initial reports estimate 15,626 households located within the affected area, representing a population of approximately 47,697 individuals. Temporary shelters have been set up in the half-mile area outside the perimeter of the evacuation zone (light red ring) and are marked on the map with mustard-yellow icons. All evacuees are instructed to seek shelter immediately at the nearest shelter location until the situation has been brought under control. While current weather conditions look favorable to preventing the expansion of the hazard area, the situation is being closely monitored for any changes. 
 For real time updates on the status of the situation, stay tuned to your local public radio station. A special hotline has also been set up to answer questions and provide any additional guidance that may be required as the situation is being resolved. To speak to an attendant, dial 555-5555. 
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399783-429f3f80-7f52-11ea-9991-1271e50fc4fc.jpg">
 </p>
+
 
 **II.	Map of Redirected Traffic Patterns and Drive Times to Nearest Hospitals**
 <br />
