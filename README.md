@@ -84,6 +84,33 @@ One change I'd like to make to improve my final map is to dull the color used fo
 
 One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level. 
 
+### Mecklenburg Hazard Evacuation Exercise
+
+**I. Map with Incident and Evacuation Plans**
+<br />
+*Mecklenburg, NC Hazardous Incident Report*
+At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
+
+Emergency responders are on the scene and have issued an immediate evacuation notice for all households located within the affected area (see the evacuation area on the map below). 
+
+Initial reports estimate 15,626 households located within the affected area, representing a population of approximately 47,697 individuals. Temporary shelters have been set up in the half-mile area outside the perimeter of the evacuation zone (light red ring) and are marked on the map with mustard-yellow icons. All evacuees are instructed to seek shelter immediately at the nearest shelter location until the situation has been brought under control. While current weather conditions look favorable to preventing the expansion of the hazard area, the situation is being closely monitored for any changes. 
+For real time updates on the status of the situation, stay tuned to your local public radio station. A special hotline has also been set up to answer questions and provide any additional guidance that may be required as the situation is being resolved. To speak to an attendant, dial 555-5555. 
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399294-f99abb80-7f50-11ea-8d90-aaaa77db623d.jpg">
+</p>
+
+**II.	Map of Redirected Traffic Patterns and Drive Times to Nearest Hospitals**
+<br />
+Below is a proposed text message that the North Carolina DMV can send out that instructs motorists how to deal with the incident. Below that, I have included a map of evacuation routes and the service areas of the nearest fire stations. 
+<p align="justified">
+*An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.*
+<p>
+
+<p align="center">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399305-ff909c80-7f50-11ea-93ca-0458175ee926.jpg">
+</p>
+
 ### Mapping Damage from Hurricane Katrina
 
 **I.	Map of Mississippi elevation/bathymetry**
