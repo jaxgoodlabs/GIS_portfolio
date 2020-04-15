@@ -97,18 +97,17 @@ Initial reports estimate 15,626 households located within the affected area, rep
 For real time updates on the status of the situation, stay tuned to your local public radio station. A special hotline has also been set up to answer questions and provide any additional guidance that may be required as the situation is being resolved. To speak to an attendant, dial 555-5555. 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399294-f99abb80-7f50-11ea-8d90-aaaa77db623d.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399783-429f3f80-7f52-11ea-9991-1271e50fc4fc.jpg">
 </p>
 
 **II.	Map of Redirected Traffic Patterns and Drive Times to Nearest Hospitals**
 <br />
 Below is a proposed text message that the North Carolina DMV can send out that instructs motorists how to deal with the incident. Below that, I have included a map of evacuation routes and the service areas of the nearest fire stations. 
-<p align="justified">
-*An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.*
-<p>
+
+⋅⋅⋅*An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.*
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399305-ff909c80-7f50-11ea-93ca-0458175ee926.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399789-46cb5d00-7f52-11ea-9686-49294c166925.jpg">
 </p>
 
 ### Mapping Damage from Hurricane Katrina
