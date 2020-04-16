@@ -87,7 +87,7 @@ One unanswered question, which may affect my comments above, has to do with whic
 ### Mecklenburg Hazard Evacuation Exercise
 
 **I. Map with Incident and Evacuation Plans**
-<br />
+
 *Mecklenburg, NC Hazardous Incident Report*
 <br />
 > At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
