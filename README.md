@@ -98,7 +98,7 @@ One unanswered question, which may affect my comments above, has to do with whic
 For real time updates on the status of the situation, stay tuned to your local public radio station. A special hotline has also been set up to answer questions and provide any additional guidance that may be required as the situation is being resolved. To speak to an attendant, dial 555-5555. 
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399783-429f3f80-7f52-11ea-9991-1271e50fc4fc.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79400523-70858380-7f54-11ea-9269-3f55cd1bd80b.JPG">
 </p>
 
 
@@ -109,7 +109,7 @@ Below is a proposed text message that the North Carolina DMV can send out that i
 > An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.
 
 <p align="center">
-<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399789-46cb5d00-7f52-11ea-9686-49294c166925.jpg">
+<img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79400529-73807400-7f54-11ea-9f26-184d0c30e1c0.JPG">
 </p>
 
 ### Mapping Damage from Hurricane Katrina
