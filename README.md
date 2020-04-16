@@ -91,9 +91,9 @@ One unanswered question, which may affect my comments above, has to do with whic
 *Mecklenburg, NC Hazardous Incident Report*
 <br />
 > At 6:32 this evening, a tanker truck carrying chlorine gas was heading westbound on Interstate 85 in Mecklenburg County when the driver lost control of the vehicle. The tanker was damaged in the process and chlorine gas is leaking slowly from the damaged tank into the surrounding area. The incident occurred between the two northbound and southbound lanes of Interstate 77 creating unsafe conditions for anyone located within a two-mile radius of the incident. 
-
+> 
 > Emergency responders are on the scene and have issued an immediate evacuation notice for all households located within the affected area (see the evacuation area on the map below). 
-
+> 
 > Initial reports estimate 15,626 households located within the affected area, representing a population of approximately 47,697 individuals. Temporary shelters have been set up in the half-mile area outside the perimeter of the evacuation zone (light red ring) and are marked on the map with mustard-yellow icons. All evacuees are instructed to seek shelter immediately at the nearest shelter location until the situation has been brought under control. While current weather conditions look favorable to preventing the expansion of the hazard area, the situation is being closely monitored for any changes. 
 For real time updates on the status of the situation, stay tuned to your local public radio station. A special hotline has also been set up to answer questions and provide any additional guidance that may be required as the situation is being resolved. To speak to an attendant, dial 555-5555. 
 
@@ -106,7 +106,7 @@ For real time updates on the status of the situation, stay tuned to your local p
 <br />
 Below is a proposed text message that the North Carolina DMV can send out that instructs motorists how to deal with the incident. Below that, I have included a map of evacuation routes and the service areas of the nearest fire stations. 
 
-> *An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.*
+> An immediate evacuation notice has been issued for all motorists located within two miles of the I-77/I-85 interchange in Mecklenburg County due to the release of toxic chlorine gas in the area. Emergency responders are working to contain the incident and will provide regular updates through your local public radio station. Please call 555-5555 to be notified of the location of the nearest shelter and evacuation routes. If you think you may have been exposed to the hazard, an attendant can provide the location of the nearest hospital and offer guidance on seeking evaluation and treatment.
 
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79399789-46cb5d00-7f52-11ea-9686-49294c166925.jpg">
