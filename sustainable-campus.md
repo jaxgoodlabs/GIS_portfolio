@@ -25,12 +25,12 @@ To represent each buildings’ energy use and emissions data geographically, I f
 
 *Table 1. CO2e conversion factor per unit energy use*
 <p align="left">
-<img width="60%" height="60%" src="https://user-images.githubusercontent.com/32546509/80046548-ecde1080-84d8-11ea-8040-f3d33779f126.JPG">
+<img width="70%" height="70%" src="https://user-images.githubusercontent.com/32546509/80046548-ecde1080-84d8-11ea-8040-f3d33779f126.JPG">
 </p>
 
 Once the energy use data had been converted to its CO2 equivalent values, it was joined to a shapefile of Allegheny County building footprints. This required first identifying which building IDs (BL_ID) from the energy use data set related to which building footprint ID (OBJECTID) in the Allegheny County building footprint data set (this was a many-to-one join in which multiple building IDs shared the same footprint ID). More detailed instructions on how these two data sets were matched is provided in the accompanying process log (see 4/24 entry). 
 
-Next, I used definition queries to separate the 2018 fiscal year emissions data for each of the three energy types (electricity, natural gas, and steam). I then exported each of the resultant map layers as GeoJson files and uploaded them as data sets into Mapbox (https://www.mapbox.com/). Once imported to Mapbox, I created a Style in which each CMU building was displayed as a 3D extrusion with a height proportional to its CO2e emissions. 
+Next, I used definition queries to separate the 2018 fiscal year emissions data for each of the three energy types (electricity, natural gas, and steam). I then exported each of the resultant map layers as GeoJson files and uploaded them as data sets into [Mapbox](https://www.mapbox.com/). Once imported to Mapbox, I created a Style in which each CMU building was displayed as a 3D extrusion with a height proportional to its CO2e emissions. 
 
  
 *Fig. 1. All map layers displayed (Mapbox Style editor view, in process)*
@@ -58,45 +58,48 @@ Due to time constraints, I was unable to draw any final conclusions with respect
 
 The average amount of CO2e emissions for CMU buildings in 2018 was 47,331 metric tons, with a standard deviation of 125,383 metric tons. The five buildings with the highest CO2e emissions values were:
 
-(1)	Pittsburgh Technology Center (OBJECTID #30998) – 1,033,795 metric tons
-(2)	ASTM International Test Monitoring Center (OBJECTID #481673) – 284,229 metric tons
-(3)	Cohon University Center (OBJECTID #142418) – 262,727 metric tons
-(4)	Morewood Gardens A-E (OBJECTID #150665) – 209,549 metric tons
-(5)	Doherty Apartments (OBJECTID #158025) – 152,705 metric tons
+1.	Pittsburgh Technology Center (OBJECTID #30998) – 1,033,795 metric tons
+2.	ASTM International Test Monitoring Center (OBJECTID #481673) – 284,229 metric tons
+3.	Cohon University Center (OBJECTID #142418) – 262,727 metric tons
+4.	Morewood Gardens A-E (OBJECTID #150665) – 209,549 metric tons
+5.	Doherty Apartments (OBJECTID #158025) – 152,705 metric tons
 
 The five buildings with the lowest (non-zero) CO2e emissions values were:
 
-(1)	Bramer House & Garage (OBJECTID #149805) - 22 metric tons
-(2)	Highlands Apartments (OBJECTID #116460) - 46 metric tons
-(3)	Alumni House (OBJECTID #148899) - 648 metric tons
-(4)	Smith Hall (OBJECTID #143904) - 711 metric tons
-(5)	Margaret Morrison Apartments B (OBJECTID #169488) – 1,384 metric tons
+1.	Bramer House & Garage (OBJECTID #149805) - 22 metric tons
+2.	Highlands Apartments (OBJECTID #116460) - 46 metric tons
+3.	Alumni House (OBJECTID #148899) - 648 metric tons
+4.	Smith Hall (OBJECTID #143904) - 711 metric tons
+5.	Margaret Morrison Apartments B (OBJECTID #169488) – 1,384 metric tons
 
 Some of these findings are surprising and may reflect anomalies or inaccuracies in the data. One possible explanation for why this might happen is that the building footprint layer, which serves as the focal point of my analysis (identified by OBJECTID), sometimes encompasses more than one distinct building (identified by BL_ID). In such cases, the energy use and emissions values would be much higher than they should be, e.g., in the case that each building was represented individually. This is likely the case, for instance, for the OBJECTID associated with Morewood Gardens A-E above. 
 
-*Future Work*
+### Future Work
 
 Due to time constraints, there were several things I had hoped to accomplish that I wasn’t able to. Below I’ve provided a short list of suggestions for future work.
 
-(1)	Add emissions data for transportation systems and non-energy sources to more closely conform to the report that this analysis is intended to complement.
-(2)	Clean up the source data to make pop up info more readable/informative
-(3)	Provide a more granular breakdown of energy use and emissions per building by using building id (provided by FMS’s energy use and emissions data) instead of OBJECTID (the county’s building footprint data)
-(4)	Add missing buildings and related emissions data, especially Tepper
-(5)	Normalize energy use and emissions data by incorporating building size/area and other relevant attributes
-(6)	Separate energy use and emissions data according to building type (residential, industrial, etc.)
-(7)	Compare my findings and conclusions with those published in the 2017 EPP-SDS joint study for QA/QC purposes
-(8)	Add additional analytical tools and improve interactivity of published map (top priorities are relating emissions data to key desiderata of CMU’s Central Administration, including cost savings potential of recommended actions, energy efficiency and utility cost comparisons to similarly specced buildings in Pittsburgh, etc.)
-(9)	Include additional years to identify time trends (energy use and emissions data available for as far back as 2003)
-(10)	Clean up Process Log and convert to a concise protocol that others can follow to reproduce this study for their campus, and upload to Sustainable_Campus repository on GitHub
+1.	Add emissions data for transportation systems and non-energy sources to more closely conform to the report that this analysis is intended to complement.
+2.	Clean up the source data to make pop up info more readable/informative
+3.	Provide a more granular breakdown of energy use and emissions per building by using building id (provided by FMS’s energy use and emissions data) instead of OBJECTID (the county’s building footprint data)
+4.	Add missing buildings and related emissions data, especially Tepper
+5.	Normalize energy use and emissions data by incorporating building size/area and other relevant attributes
+6.	Separate energy use and emissions data according to building type (residential, industrial, etc.)
+7.	Compare my findings and conclusions with those published in the 2017 EPP-SDS joint study for QA/QC purposes
+8.	Add additional analytical tools and improve interactivity of published map (top priorities are relating emissions data to key desiderata of CMU’s Central Administration, including cost savings potential of recommended actions, energy efficiency and utility cost comparisons to similarly specced buildings in Pittsburgh, etc.)
+9.	Include additional years to identify time trends (energy use and emissions data available for as far back as 2003)
+10.	Clean up Process Log and convert to a concise protocol that others can follow to reproduce this study for their campus, and upload to Sustainable_Campus repository on GitHub
 
-*Data Source(s)*
+### Data Source(s)
 
 A complete list of data sources used for this project along with descriptions of each can be found in the accompanying data documentation file (see file: “GISDataSourcesPatrickCampbell”). 
 
-*References*
+### References
 
 Clay, Karen, Neil Donahue, Dave Dzombak, Vivian Loftness, Nick Muller, Illah Nourbakhsh, Illah, Ed Rubin, and Joel Tarr, eds. “The Future of Sustainability Education, Research and Practice at CMU: Report of the Faculty Senate Ad Hoc Committee on Sustainability.” Carnegie Mellon University. February 2019.
 Department of Engineering and Public Policy and Department of Social and Decision Sciences “Pittsburgh to Paris: Reducing the Carbon Footprint of Carnegie Mellon University.” Carnegie Mellon University. December 2017.
-Maron, Mikel. “Mapbox Education – CMU Presentation.” PowerPoint Presentation. https://docs.google.com/presentation/d/1sE0KsPb9ICbG7Ne1TucivOEmWDcTQuVjBH2cNRIytcU/edit?usp=sharing. Accessed April 25, 2019.
+Maron, Mikel. “Mapbox Education – CMU Presentation.” PowerPoint Presentation. [https://docs.google.com/presentation/d/1sE0KsPb9ICbG7Ne1TucivOEmWDcTQuVjBH2cNRIytcU/edit?usp=sharing](https://docs.google.com/presentation/d/1sE0KsPb9ICbG7Ne1TucivOEmWDcTQuVjBH2cNRIytcU/edit?usp=sharing). Accessed April 25, 2019.
+
+### Project Updates
+On XX/XX/XXXX, this project was featured on Mapbox's student work. See the post [here]().
 
 
