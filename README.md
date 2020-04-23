@@ -1,8 +1,8 @@
-# GIS_portfolio
+# GIS Portfolio
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](##google-maps-styles) / [ArcGIS Map Sytle](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis)
+[Google Map Styles](##google-maps-styles) / [ArcGIS Map Sytle](##arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](##mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](##mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](##visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](##investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](##sustainable-campus-project) / [Pittsburgh EV Site Analysis Project](##pittsburgh-electric-vehicle-site-analysis)
 
 # About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
@@ -69,7 +69,7 @@ The resulting map style is presented below.
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html) to access the interactive version.
 
-# ArcGIS Map Style: Plant Growing in the Desert
+## ArcGIS Map Style: Plant Growing in the Desert
 <img align="left" width="17%" height="17%" src="https://user-images.githubusercontent.com/32546509/77484326-9d84c180-6e00-11ea-8bb3-d4757ef2b7d8.JPG">
 For this exercise, I wanted to make another attempt at executing my concept from last week - which, again, was to use a contrasting color scheme to highlight the specific elements of a municipality's physical infrastructure (buildings, highways, etc.) used by commons, cooperatives, and other cooperative enterprises. Similar to the previous exercise, I searched for images following a "life and death" theme, where life was represented by living greenery (trees, plants, etc.) and death was represented by burned or desiccated soil or dull, gray concrete. I ended up using  this image of a plant sprouting in the desert (left).<br />
 <br />
@@ -89,7 +89,7 @@ One change I'd like to make to improve my final map is to dull the color used fo
 
 One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level. 
 
-# Mecklenburg Hazard Evacuation Exercise
+## Mecklenburg Hazard Evacuation Exercise
 
 **I. Map with Incident and Evacuation Plans**
 
@@ -117,7 +117,7 @@ Below is a proposed text message that the North Carolina DMV can send out that i
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79400529-73807400-7f54-11ea-9f26-184d0c30e1c0.JPG">
 </p>
 
-# Mapping Damage from Hurricane Katrina
+## Mapping Damage from Hurricane Katrina
 
 **I.	Map of Mississippi elevation/bathymetry**
 <br />
@@ -153,7 +153,7 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076928-85031b00-7ccb-11ea-9089-6fe22ab7056a.JPG">
 </p>
 
-# Visualizing 412 Food Rescue Data with Kepler
+## Visualizing 412 Food Rescue Data with Kepler
 Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
 
 <p align="center">
@@ -162,7 +162,7 @@ Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like m
 
 Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
-# Investigating Patterns in My Google Location Data
+## Investigating Patterns in My Google Location Data
 
 While exploring my location data in ArcGIS data - which curiously included data just from 2015, 2019 and 2020 - the first thing that struck me was how spotty the coverage was. I had thoroughly expected to see a complete saturation of points throughout my travel range, but for many trips, found only single points representing a final destination. These were long, drawn out car trips, some of them covering multiple days of travel, and yet Google seems to have only collected a single data point from the whole trip.
 
@@ -186,7 +186,7 @@ To see how easily I could extract this sort of information from these data, I us
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/79072713-7a875800-7cb0-11ea-9c13-60147f423540.JPG">
 </p>
 
-# Sustainable Campus Project
+## Sustainable Campus Project
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80049872-1e0f0e80-84e2-11ea-99b5-3ff09698fc8c.JPG">
@@ -194,7 +194,7 @@ To see how easily I could extract this sort of information from these data, I us
 
 Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
 
-# Pittsburgh Electric Vehicle Site Analysis
+## Pittsburgh Electric Vehicle Site Analysis
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
