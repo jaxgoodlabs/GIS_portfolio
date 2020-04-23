@@ -162,7 +162,7 @@ Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like m
 
 Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
-## Investigating Patterns in My Google Location Data
+## Investigating Patterns in my Google Location Data
 
 While exploring my location data in ArcGIS data - which curiously included data just from 2015, 2019 and 2020 - the first thing that struck me was how spotty the coverage was. I had thoroughly expected to see a complete saturation of points throughout my travel range, but for many trips, found only single points representing a final destination. These were long, drawn out car trips, some of them covering multiple days of travel, and yet Google seems to have only collected a single data point from the whole trip.
 
