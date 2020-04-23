@@ -2,7 +2,7 @@
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](###google-maps-style-people's-square) / [ArcGIS Map Sytle](###arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](###mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](###visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](###investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus)
+[Google Map Styles](###google-maps-style-people's-square) / [ArcGIS Map Sytle](###arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](###mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](###visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus)
 
 ## About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
@@ -160,7 +160,7 @@ Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like m
 
 Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
 
-### Investigating Patterns in My Google Location Data
+# Investigating Patterns in My Google Location Data
 
 While exploring my location data in ArcGIS data - which curiously included data just from 2015, 2019 and 2020 - the first thing that struck me was how spotty the coverage was. I had thoroughly expected to see a complete saturation of points throughout my travel range, but for many trips, found only single points representing a final destination. These were long, drawn out car trips, some of them covering multiple days of travel, and yet Google seems to have only collected a single data point from the whole trip.
 
