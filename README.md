@@ -2,7 +2,7 @@
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](#google-maps-styles) / [ArcGIS Map Sytle](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis)
+[Google Map Styles](##google-maps-styles) / [ArcGIS Map Sytle](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis)
 
 ## About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
@@ -13,10 +13,10 @@ I also have many interests and pet projects outside of conservation and environm
 ## What I hope to learn 
 In this course, I hope to shore up the foundational knowledge and skills I acquired in my introductory GIS course and begin digging deeper into the advanced capabilities of ArcGIS Pro, especially those that are most highly valued among my prospective employers in the fields of civic tech and environmental policy and sustainability. I also look forward to gaining exposure to additional tools and software used by GIS professionals and integrating my knowledge of these tools with the broader base of knowledge I've acquired during my nearly two years in Heinz College, especially database management, programming, and [data visualization](https://jaxgoodlabs.github.io/campbell-portfolio/).
 
-## Portfolio
+# Portfolio
 Below are some examples of my work.
 
-# Google Maps Styles
+## Google Maps Styles
 
 ### People's Square
 In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named People's Square. To create the style, I first searched Google for an image (filtered by "marked for resuse" license) whose color scheme matched that of the map style I wanted to create. 
