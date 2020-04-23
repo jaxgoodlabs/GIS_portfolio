@@ -224,6 +224,6 @@ Click [here]() to view this project.
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80058259-cb8c1d00-84f6-11ea-919a-03ca89bd5605.JPG">
 </p>
 
-Click [here]() to view this project.
+Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the final report for this project.
 
 [Return to top](#jump-to-section)
