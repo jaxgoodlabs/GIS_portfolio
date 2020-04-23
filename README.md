@@ -4,7 +4,7 @@ Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be view
 #### Jump to Section
 [Google Map Styles](##google-maps-styles) / [ArcGIS Map Sytle](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis)
 
-## About me 
+# About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
 My name is Patrick Campbell and I’m a 2nd year student in the Public Policy and Management Master's Program at Carnegie Mellon University. Before coming to CMU, I worked in a variety of positions in the areas of environmental science and conservation. Some of the more notable examples of the work I've done include 3 years managing a volunteer program at a biological research station in the Peruvian Amazon and a year and a half hunting and removing invasive Burmese pythons from the areas surrounding Everglades National Park in South Florida. <br />
 <br />
