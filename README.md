@@ -69,6 +69,8 @@ The resulting map style is presented below.
 
 Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/remote-sensing.html) to access the interactive version.
 
+[Return to top](#jump-to-section)
+
 ## ArcGIS Map Style: Plant Growing in the Desert
 <img align="left" width="17%" height="17%" src="https://user-images.githubusercontent.com/32546509/77484326-9d84c180-6e00-11ea-8bb3-d4757ef2b7d8.JPG">
 For this exercise, I wanted to make another attempt at executing my concept from last week - which, again, was to use a contrasting color scheme to highlight the specific elements of a municipality's physical infrastructure (buildings, highways, etc.) used by commons, cooperatives, and other cooperative enterprises. Similar to the previous exercise, I searched for images following a "life and death" theme, where life was represented by living greenery (trees, plants, etc.) and death was represented by burned or desiccated soil or dull, gray concrete. I ended up using  this image of a plant sprouting in the desert (left).<br />
@@ -88,6 +90,8 @@ The big test for how effective my basemap is has to do with how well it supports
 One change I'd like to make to improve my final map is to dull the color used for certain parks/natural areas. For whatever reason, the template I used automatically dulled the green for most of these areas but left certain polygons with the full color saturation (see, e.g., the top right corner of Schenley Park in the main screenshot above). Because I don't want my basemap to compete with added layers (specifically the physical infrastructure layers that are the map's primary subject), I'd prefer all these areas to be the same shade of green. 
 
 One unanswered question, which may affect my comments above, has to do with which additional map layers end up being relevant to the final map, and how my design choices for those features interact with those of my basemap. For example,  I mentioned that I want to display large portions of the physical infrastructure layers as background/contextual layers also, using a similar color scheme to those I've used for the basemap. (This is necessary, e.g., to highlight those specific portions of that infrastructure that are utilized by cooperative enterprises.) So one thing I'd want to pay special attention to is how well that effect works when it's being duplicated at both the basemap and feature layers, or if, alternatively, I need to make some adjustments to the basemap to preserve the impact at the feature level. 
+
+[Return to top](#jump-to-section)
 
 ## Mecklenburg Hazard Evacuation Exercise
 
@@ -116,6 +120,8 @@ Below is a proposed text message that the North Carolina DMV can send out that i
 <p align="center">
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79400529-73807400-7f54-11ea-9f26-184d0c30e1c0.JPG">
 </p>
+
+[Return to top](#jump-to-section)
 
 ## Mapping Damage from Hurricane Katrina
 
@@ -153,6 +159,8 @@ The map below shows the infrastructure and health facilities at risk from the Hu
 <img width="80%" height="80%" src="https://user-images.githubusercontent.com/32546509/79076928-85031b00-7ccb-11ea-9089-6fe22ab7056a.JPG">
 </p>
 
+[Return to top](#jump-to-section)
+
 ## Visualizing 412 Food Rescue Data with Kepler
 Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like many others, I felt the 3-d view would be most effective for displaying the arcs connecting donor and recipient. I chose a purple-yellow color scheme for maximum contrast and visibility on the dark-themed basemap. To reinforce the altruistic nature of the work, I chose the brightest color (yellow) to represent the recipients, implicitly making the map about them rather than the donors, who are visualized in purple. I thought the gradation effect was nice for providing the context of directionality. 
 
@@ -161,6 +169,8 @@ Below is a screenshot of the 412 Food Rescue data I visualized in Kepler. Like m
 </p>
 
 Clich [here](https://jaxgoodlabs.github.io/GIS_portfolio/kepler412data.json) to access the json file for this map.
+
+[Return to top](#jump-to-section)
 
 ## Investigating Patterns in my Google Location Data
 
@@ -186,6 +196,8 @@ To see how easily I could extract this sort of information from these data, I us
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/79072713-7a875800-7cb0-11ea-9c13-60147f423540.JPG">
 </p>
 
+[Return to top](#jump-to-section)
+
 ## Sustainable Campus Project
 
 <p align="center">
@@ -194,6 +206,8 @@ To see how easily I could extract this sort of information from these data, I us
 
 Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
 
+[Return to top](#jump-to-section)
+
 ## Pittsburgh Electric Vehicle Site Analysis
 
 <p align="center">
@@ -201,3 +215,5 @@ Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view
 </p>
 
 Click [here]() to view this project.
+
+[Return to top](#jump-to-section)
