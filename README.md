@@ -13,6 +13,9 @@ In this course, I hope to shore up the foundational knowledge and skills I acqui
 ## Portfolio
 Below are some examples of my work.
 
+#### Jump to Section
+[Google Map Styles](###google-maps-style-people's-square) / [Part 2](#final-project-part-2) / [Part 3](#final-project-part-3) / [Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/) / [Supplemental works](https://jaxgoodlabs.github.io/campbell-portfolio/dataviz2.html)
+
 ### Google Map Style: People's Square
 In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named People's Square. To create the style, I first searched Google for an image (filtered by "marked for resuse" license) whose color scheme matched that of the map style I wanted to create. 
 
