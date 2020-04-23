@@ -35,21 +35,21 @@ Next, I used definition queries to separate the 2018 fiscal year emissions data 
  
 *Fig. 1. All map layers displayed (Mapbox Style editor view, in process)*
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047090-7b06c680-84da-11ea-9a12-2e2fbfa7b761.png">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047637-f2892580-84db-11ea-8607-6a6c9605daee.JPG">
 </p>
 
 I wanted to use a “stacking” method to present the proportion of total CO2e emissions represented by each of the three energy types, but I couldn’t pull it off in the allotted time frame. I believe I could eventually accomplish this effect by setting the base height of each component layer equal to the height of the layer underneath it (e.g., base height of electricity layer = height of natural gas layer, and base height of natural gas layer = height of steam layer). The figure below illustrates how the base layer function could be used to achieve a stacking effect. 
 
 *Fig. 2. Illustration of using base layer setting to achieve “stacking” effect*
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047106-8bb73c80-84da-11ea-8267-77e6b5b6602d.png">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047642-f4eb7f80-84db-11ea-87c9-c737eaaf5255.JPG">
 </p>
 
 Finally, I uploaded the [final map source code](https://github.com/jaxgoodlabs/Sustainable_Campus) onto GitHub. Using a series of Mapbox tutorials, I adjusted the map’s source code to incorporate some basic interactivity, including pop-ups to display information about each building. Though I had planned to have these pop ups include the building name, address, and proportional breakdown of CO2e emissions per energy type, time constraints only allowed me to configure the pop ups with a single value, aggregate CO2e emissions (see Fig. 3). 
 
 *Fig. 3. Interactive map in GitHub Pages, illustrating pop-up feature*
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047213-d33dc880-84da-11ea-8fc5-c064673c10e1.png">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80047644-f7e67000-84db-11ea-9250-9e6a57e93f0e.JPG">
 </p>
 
 ### Results
