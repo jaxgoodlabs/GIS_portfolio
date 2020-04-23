@@ -2,7 +2,7 @@
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](###google-maps-style-people's-square) / [ArcGIS Map Sytle](###arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise) / [Mecklenburg Hazard Evacuation Exercise](###mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](###visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](###investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus)
+[Google Map Styles](###google-maps-style-people's-square) / [ArcGIS Map Sytle](###arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mecklenburg Hazard Evacuation Exercise](###mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](###visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](###investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus)
 
 ## About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
