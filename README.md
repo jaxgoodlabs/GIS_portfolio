@@ -2,7 +2,7 @@
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](#google-maps-styles) / [ArcGIS Map Style](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](#sustainable-campus-project) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis)
+[Google Map Styles](#google-maps-styles) / [ArcGIS Map Style](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](#sustainable-campus-project) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis) / [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida) 
 
 # About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
@@ -212,6 +212,16 @@ Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view
 
 <p align="center">
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
+</p>
+
+Click [here]() to view this project.
+
+[Return to top](#jump-to-section)
+
+## Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida
+
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80058259-cb8c1d00-84f6-11ea-919a-03ca89bd5605.JPG">
 </p>
 
 Click [here]() to view this project.
