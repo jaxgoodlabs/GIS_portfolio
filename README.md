@@ -1,6 +1,9 @@
 # GIS_portfolio
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
+#### Jump to Section
+[Google Map Styles](###google-maps-style-people's-square) / [ArcGIS Map Sytle](###arcgis-map-style:-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](###mecklenburg-hazard-evacuation-exercise) / [Mecklenburg Hazard Evacuation Exercise](###mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](###visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](###investigating-patterns-in-my-google-location-data) / [Sustainable Campus Project](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus)
+
 ## About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
 My name is Patrick Campbell and I’m a 2nd year student in the Public Policy and Management Master's Program at Carnegie Mellon University. Before coming to CMU, I worked in a variety of positions in the areas of environmental science and conservation. Some of the more notable examples of the work I've done include 3 years managing a volunteer program at a biological research station in the Peruvian Amazon and a year and a half hunting and removing invasive Burmese pythons from the areas surrounding Everglades National Park in South Florida. <br />
@@ -12,9 +15,6 @@ In this course, I hope to shore up the foundational knowledge and skills I acqui
 
 ## Portfolio
 Below are some examples of my work.
-
-#### Jump to Section
-[Google Map Styles](###google-maps-style-people's-square) / [Part 2](#final-project-part-2) / [Part 3](#final-project-part-3) / [Portfolio Homepage](https://jaxgoodlabs.github.io/campbell-portfolio/) / [Supplemental works](https://jaxgoodlabs.github.io/campbell-portfolio/dataviz2.html)
 
 ### Google Map Style: People's Square
 In this exercise, I used the [Google Maps Platform Styling Wizard](https://mapstyle.withgoogle.com/) to create my own Google Maps basemap, which I've named People's Square. To create the style, I first searched Google for an image (filtered by "marked for resuse" license) whose color scheme matched that of the map style I wanted to create. 
