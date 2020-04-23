@@ -186,8 +186,16 @@ To see how easily I could extract this sort of information from these data, I us
 
 ### Sustainable Campus Project
 
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80049872-1e0f0e80-84e2-11ea-99b5-3ff09698fc8c.JPG">
+</p>
+
 Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
 
 ### Pittsburgh Electric Vehicle Site Analysis
+
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80050002-79410100-84e2-11ea-9ced-5082f60267e9.JPG">
+</p>
 
 Click [here]() to view this project.
