@@ -204,7 +204,7 @@ To see how easily I could extract this sort of information from these data, I us
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/80049872-1e0f0e80-84e2-11ea-99b5-3ff09698fc8c.JPG">
 </p>
 
-Click [here](https://jaxgoodlabs.github.io/Sustainable_Campus/README.md) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
+Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to view the final report for this project. The interactive final product can be accessed [here](https://jaxgoodlabs.github.io/Sustainable_Campus/).
 
 [Return to top](#jump-to-section)
 
