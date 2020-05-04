@@ -261,9 +261,21 @@ The final deliverables for this project include:
 
 **7.	Project Updates**
 
+<p align="center">
+<img width="85%" height="85%" src="https://user-images.githubusercontent.com/32546509/80931010-4d950500-8d85-11ea-9002-b4b24cb4d7a9.png">
+</p>
+
 Due to difficulties running the Hazus software on my personal laptop, I decided instead to focus on analyses I could execute using the standard ArcGIS Pro suite of tools. The central focus of this effort involved attempting to reproduce several official flood models issued by Miami-Dade County and NOAA. Details of these analyses are thoroughly documented in the accompanying Process Log.
 
+<p align="left">
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/80931091-b2e8f600-8d85-11ea-9388-d4ac0b808cc0.JPG"> <img width="50%" height="50%" src="https://user-images.githubusercontent.com/32546509/80931089-aa90bb00-8d85-11ea-9c0b-b7df2ec13d1f.JPG">
+</p>
+
 A secondary goal of this project was to troubleshoot various tutorials and flood modeling exercises for possible incorporation into the new Geographic Information Systems for Environmental Awareness and Community Engagement (GISEC) curriculum at Miami-Dade College. “The goal of GISEC is to create a pathway for students in GIS technology and to enhance technological applications of public interest with an emphasis on environmental hazards awareness and community engagement in Miami-Dade County, a minority-majority urban area significantly impacted by, and at ongoing risk for, natural disasters.”[1](https://www.mdc.edu/entec/grants/gisec.aspx)  To this end, I spent a large portion of my time on this project exploring various applications of the ArcGIS Pro Image Classification tools, completing several guided tutorials in the process. The products of these exercises have been included in the final project package. Relevant notes and insights from these exercises are provided in the Process Log, while the Example Tutorial file provides a model of how these analyses might be converted into guided tutorials for use in the classroom. 
+
+<p align="center">
+<img width="65%" height="65%" src="https://user-images.githubusercontent.com/32546509/80930960-f000b880-8d84-11ea-85be-4cc3af24ff13.JPG">
+</p>
 
 [Return to top](#jump-to-section)
 
