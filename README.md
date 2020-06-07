@@ -288,7 +288,7 @@ Click [here](https://jaxgoodlabs.github.io/GIS_portfolio/sustainable-campus) to 
 ## Sustainable City Project
 
 <p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83972817-56ab5180-a8b0-11ea-84d2-417b2afc938d.png">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83973007-78590880-a8b1-11ea-8c1f-6ab0df87929f.png">
 </p>
 
 Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interactive final product.
