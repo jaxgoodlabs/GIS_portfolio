@@ -2,7 +2,19 @@
 Welcome to my portfolio for 90753: Advanced GIS. This portfolio can also be viewed by visiting [https://jaxgoodlabs.github.io/GIS_portfolio/](https://jaxgoodlabs.github.io/GIS_portfolio/).
 
 #### Jump to Section
-[Google Map Styles](#google-maps-styles) / [ArcGIS Map Style](#arcgis-map-style-plant-growing-in-the-desert) / [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise) / [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) / [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) / [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) / [Final Project: Hazus Flood Modeling for Miami, FL](#final-project-hazus-flood-modeling-for-miami-fl) / [Sustainable Campus Project](#sustainable-campus-project) / [Sustainable City Project](#sustainable-city-project) / [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis) / [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida) / [Bumblebee Conservation in the Midwest US](#bumblebee-conservation-in-the-midwest-us)
+- [Google Map Styles](#google-maps-styles) 
+- [ArcGIS Map Style](#arcgis-map-style-plant-growing-in-the-desert) 
+- [Mecklenburg Hazard Evacuation Exercise](#mecklenburg-hazard-evacuation-exercise)
+- [Mapping Damage from Hurricane Katrina](#mapping-damage-from-hurricane-katrina) 
+- [Visualizing 412 Food Rescue Data with Kepler](#visualizing-412-food-rescue-data-with-kepler) 
+- [Investigating Patterns in my Google Location Data](#investigating-patterns-in-my-google-location-data) 
+- [Final Project: Hazus Flood Modeling for Miami, FL](#final-project-hazus-flood-modeling-for-miami-fl)
+- [Sustainable Campus Project](#sustainable-campus-project) 
+- [Sustainable City Project](#sustainable-city-project) 
+- [Pittsburgh EV Site Analysis Project](#pittsburgh-electric-vehicle-site-analysis) 
+- [Optimizing Coverage of Hunting Areas for Maximum Removal of Burmese Pythons in South Florida](#optimizing-coverage-of-hunting-areas-for-maximum-removal-of-burmese-pythons-in-south-florida) 
+- [Bumblebee Conservation in the Midwest US](#bumblebee-conservation-in-the-midwest-us)
+- [Resilience Oriented Planning Map](#resilience-oriented-planning-map)
 
 # About me 
 <img align="left" src="https://user-images.githubusercontent.com/32546509/77238966-de37cd00-6bab-11ea-9b9b-e49783f8300a.jpg">
@@ -322,5 +334,15 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 </p>
 
 [View this map on ArcGIS Online](https://arcg.is/05XH5S0) or click [here](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=9dc0bb2905164cf4a9c71c6e6a972c63) to view the project Story Map. Access the final report [here](jaxgoodlabs.github.io/bumbleebee-conservation/).
+
+[Return to top](#jump-to-section)
+
+## Resilience Oriented Planning Map
+
+<p align="center">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83976614-14dad500-a8c9-11ea-829d-abff9be35343.png">
+</p>
+
+Click [here](https://jaxgoodlabs.github.io/pittsburgh-hazards-map) to view this project.
 
 [Return to top](#jump-to-section)
