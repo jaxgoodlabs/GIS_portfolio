@@ -318,8 +318,7 @@ Click [here](https://jaxgoodlabs.github.io/sfwmd-python-program) to view the fin
 ## Bumblebee Conservation in the Midwest US
 
 <p align="center">
-<img width="100%" height="100%" src="
-https://user-images.githubusercontent.com/32546509/83971918-9ae82300-a8ab-11ea-82e8-bf18962a0587.JPG">
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83971918-9ae82300-a8ab-11ea-82e8-bf18962a0587.JPG">
 </p>
 
 [View this map on ArcGIS Online](https://arcg.is/05XH5S0) or click [here](https://carnegiemellon.maps.arcgis.com/apps/MapSeries/index.html?appid=9dc0bb2905164cf4a9c71c6e6a972c63) to view the project Story Map. Access the final report [here](jaxgoodlabs.github.io/bumbleebee-conservation/).
