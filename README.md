@@ -314,7 +314,7 @@ Click [here](https://jaxgoodlabs.github.io/SustainableCity/) to view the interac
 <img width="100%" height="100%" src="https://user-images.githubusercontent.com/32546509/83985569-c00a7f00-a907-11ea-801d-83699e1ea831.png">
 </p>
 
-Click [here]() to view this project.
+Click [here](https://github.com/jaxgoodlabs/Norwalk_Transportation/) to view this project on GitHub.
 
 [Return to top](#jump-to-section)
 
