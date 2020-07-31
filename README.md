@@ -11,7 +11,9 @@ I first became interested in the social applications of data science through my 
 <br />
 This realization is what ultimately led me to Carnegie Mellon, and to Heinz College in particular. As the country’s top-rated program in analytics education with a mission of training students to “turn raw data into solutions for society’s most pressing problems,” the MSPPM program at Carnegie Mellon offered the perfect opportunity to develop the technical competencies I was seeking as well as an ideal environment to practice those skills in a real-world setting—namely, the City of Pittsburgh and its diverse network of organizational partners.<br />
 <br />
-My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.
+My most recent projects have focused on public interest technologies that help to increase the range and accessibility of social services worldwide, especially as a means of increasing society's resilience to global threats like climate change.<br />
+<br />
+View my resume [here](https://jaxgoodlabs.github.io/patrick-campbell-portfolio/Patrick%20Campbell%20Resume.pdf).
 
 #### Jump to Section
 - [Google Map Styles](#google-maps-styles) 
